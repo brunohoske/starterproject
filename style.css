@@ -1,0 +1,239 @@
+table { 
+    width: 100%;
+}
+
+
+/* Fontes externas */
+
+@font-face {
+    font-family: "K2D";
+    src: url("fontes/K2D/K2D-Bold.woff");
+}
+@font-face {
+    font-family: "inter";
+    src: url("fontes/inter/Inter-Light-BETA.otf ");
+}
+
+/* Header */
+
+/* botao criar projeto*/
+#create
+{
+    border-radius: 30px;
+    background-color: #43DA76;
+}
+
+
+#spaceLateral{width: 100px; text-align: center;}
+
+/* Titulo principal */
+
+#conteudoPrincipal{ 
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+
+.tituloPrincipal{
+
+    margin: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    font-size:xx-large;
+    display: inline-block;
+    
+
+    font-family: "K2D";
+
+    
+}
+
+.starter{
+    color: rgb(67, 218, 118);
+    font-family: "K2D";
+
+
+}
+
+.project{
+    color: rgb(245, 209, 17);
+    font-family: "K2D";
+
+     
+}
+
+/* login */
+#login{
+    text-align: center;
+    width: 60px;
+}
+
+
+/*alinhamento de categorias*/
+#categorias{
+    text-align: center;
+    font-family: "inter";
+
+}
+.cat-align
+{
+    width: 80px;
+    display: inline-block;
+}
+
+
+.bordao{
+    text-align: center;
+    font-family: "inter";
+    
+}
+
+.pesquisa{width: 180px;}
+
+#barraPesquisa{
+    width: 130px;
+}
+
+/*  espaçamentos */
+
+.space{
+    height: 20px;
+}
+
+#spaceConteudo
+{
+    height: 25px;
+}
+
+.spaceProject{height: 15px;}
+
+
+/* Imagens e textos dos Prejetos */
+
+
+.projectsImages /*tamanho padrão de todas as imagens */
+ { 
+    width: 180px;
+    height: 100px;    
+    margin-left: 50px;
+}
+
+/*Alinhamento imagens Em alta */
+
+#entreEstrelas
+{
+    margin-left: 20px;
+    width: 175px;
+    height: 100px;
+    
+}
+
+/* Textos dos Prejetos em alta */
+
+#emalta{font-family: "k2d";}
+.textosEmalta{display: inline-block;}
+.textosRecentes{display: inline-block;}
+
+#entreEstrelasTexto{margin-left: 24px;}
+
+#boTexto{margin-left: 50px;}
+
+#sinfoniasTexto{margin-left: 10px;}
+
+#HanaTexto{margin-left: 70px;;}
+
+#HidoriTexto{margin-left: 35px;}
+
+#lancerTexto{margin-left: 62px;}
+
+#souldiersTexto{margin-left: 95px;}
+
+#windTexto{margin-left: 75px;}
+
+
+
+
+/*Alinhamento imagens Recentes */
+
+#selini{
+    margin-left: 20px;
+    width: 175px;
+    height: 100px;
+    
+}
+
+/* Textos dos Prejetos Recentes */
+
+#recentes{font-family: "k2d"; }
+
+
+.textosRecentes{display: flex;}
+
+#seliniTexto{margin-left: 24px;}
+
+#sleepingTexto{margin-left: 93px;}
+
+#murderTexto{margin-left: 60px;}
+
+#unpetrifiedTexto{margin-left: 62px;}
+
+#beyondHereTexto{margin-left: 68px;}
+
+#WhereWeBelongTexto{margin-left: 40px;}
+
+#kinderstuckTexto{margin-left: 100px;}
+
+#TheWilhemScreamTexto{margin-left: 90px;}
+
+
+
+/* Rodapé */
+#spaceFooter{height:143px}
+
+#footer
+{
+    background-color: black;
+    height: 10px;
+    
+}
+
+
+#Fstarter{
+    color: rgb(67, 218, 118);
+    font-family: "K2D";
+    display: inline-block;
+    font-size: x-large;
+    margin-left: 30px;
+
+    
+
+}
+
+#Fproject{
+    color: rgb(245, 209, 17);
+    font-family: "K2D";
+    display: inline-block;
+    font-size: x-large;
+
+     
+}
+
+#redesociais
+{
+    text-align: center;
+    
+}
+.redesociaisImg
+{
+    display: inline-block;
+    width: 43x;
+    height: 36px;
+}
+
+#instaLogo{margin-right: 20px;}
+
+#discordLogo{margin-left: 20px;}
+
+
